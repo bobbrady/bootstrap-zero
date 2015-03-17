@@ -1445,5 +1445,23 @@ module.exports =
         avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
         license:"MIT",
         licenseUrl:"http://www.designbootstrap.com/licenses/"
-    }
+    },
+	{
+    	name:"Sharp Reporter",
+    	title:"Sharp Reporter",
+    	short:"Minimalistic blog or portfolio template",
+    	full:"Sharp Reporter is a free Twitter Bootstrap 3 template. It has a clean, minimalistic layout with fixed header, sidebar, and footer. Its crisp red, gray, and black colors with fontawesome icons make for easy reading. It's good for a personal blog or simple portfolio website.",
+    	tags:["theme","fixed","fixed-header","fixed-sidebar","fixed-footer","left-sidebar","blog","portfolio","fontawesome","red"],
+    	imgUrl:"https://raw.githubusercontent.com/bobbrady/sharp-reporter/master/img/SharpReporterMacbook_640.jpg",
+    	downloadUrl:"https://github.com/bobbrady/sharp-reporter/archive/master.zip",
+    	sourceUrl:"https://github.com/bobbrady/sharp-reporter",
+    	previewUrl:"http://www.digibrady.com/portfolio/bootstrap-responsive-theme-sharpreporter.html",
+    	author:"Bob Brady (DigiBrady)",
+    	authorUrl:"http://www.digibrady.com",
+    	bootstrapVersion:"3.3.1",
+    	avatar:"http://www.digibrady.com/images/digibrady-logo-transparent-cropped.png",
+    	license:"MIT",
+    	licenseUrl:"https://raw.githubusercontent.com/bobbrady/sharp-reporter/master/LICENSE.md"
+	}
+
 ]

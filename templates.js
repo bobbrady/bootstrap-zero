@@ -1459,7 +1459,7 @@ module.exports =
     	author:"Bob Brady (DigiBrady)",
     	authorUrl:"http://www.digibrady.com",
     	bootstrapVersion:"3.3.1",
-    	avatar:"http://www.digibrady.com/images/digibrady-logo-transparent-cropped.png",
+    	avatar:"http://www.digibrady.com/portfolio/images/digibrady-logo-transparent-cropped.png",
     	license:"MIT",
     	licenseUrl:"https://raw.githubusercontent.com/bobbrady/sharp-reporter/master/LICENSE.md"
 	}
